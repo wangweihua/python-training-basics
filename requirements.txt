@@ -1,0 +1,10 @@
+RISE
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pygame
+pyaudio
+simpleaudio
+baidu-aip
+cookiecutter
+gprof2dot
+requests
